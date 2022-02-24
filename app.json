@@ -1,5 +1,5 @@
 {
-    "name": "Bottus",
+    "name": "ⁱᵃᵐ Jᴏsʜᴜ4 S3ʀ🎀",
     "description": " Whatsapp bot.",
     "keywords": [
         "whatsapp",
@@ -13,7 +13,7 @@
         },
         "SUDO": {
             "description": "Sudo mode, Your number must be an international number. So you should have your number after the country code. Example: 919876543210 (IN)",
-            "required": false
+            "required": true
         },
         "HANDLERS": {
             "description": "enter prefix. Example . or ^[.,!/] for using multiple prefix like .,!/ or LyFE. Using keyword like LyFE will broke list and help command",
@@ -65,7 +65,7 @@
         },
         "REMOVEBG_KEY": {
             "description": "Get your key from remove.bg",
-            "required": false,
+            "required": true,
             "value": "null"
         },
         "LANGUAGE": {
@@ -74,7 +74,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "🥰,lyfe00011"
+            "value": "ⁱᵃᵐ Jᴏsʜᴜ4 S3ʀ🎀"
         },
         "DISABLE_BOT": {
             "description": "Disable or Block bot in group/chat.Enter required chat jid separated by ,",
